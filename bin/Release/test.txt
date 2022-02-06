@@ -1,0 +1,117 @@
+GameObjectname : MainCamera
+pos.x : 0.000000
+pos.y : 0.000000
+scale.x : 1.000000
+scale.y : 1.000000
+layer : 0
+tag : 0
+angle : 0.000000
+
+GameObjectname : Box
+pos.x : 0.000000
+pos.y : 0.000000
+scale.x : 3.000000
+scale.y : 3.000000
+layer : 0
+tag : 0
+angle : 0.000000
+
+GameObjectname : Box
+pos.x : 1067.406616
+pos.y : 25.324118
+scale.x : 3.000000
+scale.y : 3.000000
+layer : 1
+tag : 0
+angle : 312.000000
+
+GameObjectname : Box
+pos.x : 264.000000
+pos.y : 528.000000
+scale.x : 3.000000
+scale.y : 3.000000
+layer : 1
+tag : 0
+angle : 226.000000
+
+GameObjectname : Box
+pos.x : 938.956543
+pos.y : 49.082657
+scale.x : 3.000000
+scale.y : 3.000000
+layer : 1
+tag : 0
+angle : 212.000000
+
+GameObjectname : Box
+pos.x : 603.000000
+pos.y : 476.000000
+scale.x : 3.000000
+scale.y : 3.000000
+layer : 1
+tag : 0
+angle : 213.000000
+
+GameObjectname : Box
+pos.x : 1305.000000
+pos.y : 145.000000
+scale.x : 3.000000
+scale.y : 3.000000
+layer : 1
+tag : 0
+angle : 38.000000
+
+GameObjectname : Box
+pos.x : 242.000000
+pos.y : 659.000000
+scale.x : 3.000000
+scale.y : 3.000000
+layer : 1
+tag : 0
+angle : 196.000000
+
+GameObjectname : Box
+pos.x : 19.000000
+pos.y : 368.000000
+scale.x : 3.000000
+scale.y : 3.000000
+layer : 1
+tag : 0
+angle : 346.000000
+
+GameObjectname : Box
+pos.x : 1439.000000
+pos.y : 287.000000
+scale.x : 3.000000
+scale.y : 3.000000
+layer : 1
+tag : 0
+angle : 54.000000
+
+GameObjectname : Box
+pos.x : 1087.000000
+pos.y : 858.000000
+scale.x : 3.000000
+scale.y : 3.000000
+layer : 1
+tag : 0
+angle : 42.000000
+
+GameObjectname : Box
+pos.x : 506.000000
+pos.y : 707.000000
+scale.x : 3.000000
+scale.y : 3.000000
+layer : 1
+tag : 0
+angle : 350.000000
+
+GameObjectname : Car
+pos.x : 300.000000
+pos.y : 400.000000
+scale.x : 0.200000
+scale.y : 0.200000
+layer : 2
+tag : 0
+angle : 0.000000
+
